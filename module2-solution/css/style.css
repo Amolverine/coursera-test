@@ -40,12 +40,12 @@ p {
 section {
   border: 2px solid black;
   font-size: 90%;
-  text-align: center;
+  text-align: left;
   background-color: #A9A9A9;
   width: 32%;
   float: left;
   margin: 5px 5px 15px 5px;
-  padding: 32px 5px 5px 5px;
+  padding: 32px 5px 5px 10px;
   position: relative;
 }
 
